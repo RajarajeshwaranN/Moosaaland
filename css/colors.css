@@ -1,0 +1,51 @@
+		.primary1{
+			 background-color:#91BE4A;
+			 color:#fff;
+			
+		 }
+		 .primary2{
+			 background-color:#fff;
+			 color:#fff;
+			
+		 }
+		 .primary3{
+			 background-color:#F7941E;
+			 color:#fff;
+			
+		 }
+		 .primary4{
+			 background-color:#9C298C;
+			 color:#fff;
+			
+		 } 
+		 .primary5{
+			
+			  background-color:#00a055;
+			 color:#fff;
+			
+		 } 
+		 .primary-black{
+			 background-color:#000	;
+			 color:#fff;
+			
+		 }
+		 .contact-primary{
+			  background-color:#fff200;
+			 color:#000;
+			
+			
+		 }
+		 .contact-form>.form-group>.form-control{
+			 background-color:rgba(0,0,0,0.3);
+			 border:2px solid #0087f5;
+			 color:#fff;
+			 
+			 
+		 }.form-control{
+			 background-color:rgba(0,0,0,0.3);
+			 border:2px solid #0087f5;
+			 color:#fff;
+			 
+			 
+		 }
+
